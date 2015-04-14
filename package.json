@@ -1,0 +1,27 @@
+{
+  "name": "roman-numerals-kata",
+  "version": "1.0.0",
+  "description": "http://agilekatas.co.uk/katas/romannumerals-kata",
+  "main": "",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "chai": "^2.2.0",
+    "mocha": "^2.2.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "mocha test/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/m4w4q7/roman-numerals-kata.git"
+  },
+  "author": "m4w4q7",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/m4w4q7/roman-numerals-kata/issues"
+  },
+  "homepage": "https://github.com/m4w4q7/roman-numerals-kata"
+}
